@@ -8,7 +8,7 @@
       matchArray = []
     for (i=0; i<newArray1.length; i++) {
       if (newArray1[i] == newArray2[i]) {matchArray.push(i)}
-    } console.log(matchArray)
+    } console.log(matchArray.length)
 
   }
 
