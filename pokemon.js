@@ -1,7 +1,6 @@
 (function(){
   function pokemon(arrayOfNumbers){
 
-    let caughtArray =arrayOfNumbers;
       let totalArray =[];
       let y=1;
 
